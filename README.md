@@ -18,6 +18,9 @@
 [node.js教程] (http://www.yiibai.com/nodejs/)  
 [SonarQube代码质量管理平台介绍,安装] (http://blog.csdn.net/hunterno4/article/details/11687269)  
 [jquery html5 css 教程，视频以及案例详细解说] (http://www.h5edu.cn/index.php?a=alllesson)  
+[Spring AOP 实现企业间切库](http://blog.csdn.net/zhou2s_101216/article/details/52076898)
+[Java并发教程（Oracle官方资料）](http://www.iteye.com/magazines/131-Java-Concurrency)
+
 ##设计
 [UI切换动效的6大要素](http://www.zcool.com.cn/article/ZNDE5NDg4.html)   
 [梁景红色彩设计法则 视频教程 淘宝买网盘免费看！密码：s1xi ](http://pan.baidu.com/s/1skRWU8t)  
@@ -39,3 +42,4 @@
 [搞定需求变化](http://www.cocoachina.com/programmer/20160805/17301.html)  
 [Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  
 [SCRUM敏捷开发详解图文教程](http://www.pptschool.com/1889.html)  
+[十年学会编程](http://daiyuwen.freeshell.org/gb/misc/21-days-cn.html)
